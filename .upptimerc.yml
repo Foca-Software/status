@@ -9,6 +9,8 @@ sites:
     url: https://sac.focasoftware.com/sac/usuario/index.php
   - name: Backend Mercado Pago Foca
     url: http://mp.focasoftware.com/webservices/testFront
+  - name: Debo Cloud
+    url: https://debocloud.focasoftware.com/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
