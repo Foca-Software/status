@@ -10,7 +10,7 @@ sites:
   - name: Backend Mercado Pago Foca
     url: http://mp.focasoftware.com/webservices/testFront
   - name: Debo Cloud
-    url: https://debocloud.focasoftware.com/
+    url: https://debocloud.focasoftware.com/web/login
     
 assignees:
   - ArielGQ
