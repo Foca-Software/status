@@ -4,10 +4,10 @@
     "url": "https://sacautogestion.focasoftware.com/sac_cliente/index",
     "icon": "https://favicons.githubusercontent.com/sacautogestion.focasoftware.com",
     "slug": "autogestion-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 845,
@@ -15,7 +15,9 @@
     "timeWeek": 758,
     "timeMonth": 849,
     "timeYear": 845,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-11": 1
+    }
   },
   {
     "name": "SAC",
@@ -61,11 +63,11 @@
     "icon": "https://favicons.githubusercontent.com/debocloud.focasoftware.com",
     "slug": "debo-cloud",
     "status": "up",
-    "uptime": "96.50%",
+    "uptime": "96.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.50%",
+    "uptimeYear": "96.57%",
     "time": 1299,
     "timeDay": 1410,
     "timeWeek": 1438,
