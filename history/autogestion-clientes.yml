@@ -1,7 +1,7 @@
 url: https://sacautogestion.focasoftware.com/sac_cliente/index
-status: up
-code: 200
-responseTime: 813
-lastUpdated: 2022-06-26T23:13:33.544Z
+status: down
+code: 500
+responseTime: 614
+lastUpdated: 2022-06-27T18:32:45.160Z
 startTime: Wed Feb 02 2022 04:48:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
