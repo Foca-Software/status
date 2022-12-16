@@ -9,9 +9,15 @@ sites:
     url: https://sac.focasoftware.com/sac/usuario/index.php
   - name: Backend Mercado Pago Foca
     url: http://mp.focasoftware.com/webservices/testFront
-  - name: Debo Cloud
+  - name: Debo Cloud Foca Software
     url: https://debocloud.focasoftware.com/web/login
-    
+  - name: Backend Mercado Pago v2 Foca
+    url: https://mercadopagocloud.focasoftware.com/mercadopago/message-alive
+  - name: Backend Puma Foca
+    url: https://pumacloud.focasoftware.com/puma/message-alive
+  - name: Backend Central Info Foca
+    url: https://centralinfo.focasoftware.com/message-alive
+
 assignees:
   - ArielGQ
 
