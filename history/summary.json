@@ -47,9 +47,9 @@
     "url": "https://sac.focasoftware.com/sac/usuario/index.php",
     "icon": "https://favicons.githubusercontent.com/sac.focasoftware.com",
     "slug": "sac",
-    "status": "up",
+    "status": "down",
     "uptime": "99.52%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.52%",
@@ -59,6 +59,7 @@
     "timeMonth": 818,
     "timeYear": 880,
     "dailyMinutesDown": {
+      "2022-12-23": 0,
       "2022-12-08": 969,
       "2022-12-05": 25,
       "2022-11-24": 112,
@@ -93,7 +94,7 @@
     "time": 1750,
     "timeDay": 279,
     "timeWeek": 234,
-    "timeMonth": 3637,
+    "timeMonth": 3718,
     "timeYear": 1750,
     "dailyMinutesDown": {
       "2022-12-12": 18,
@@ -144,7 +145,7 @@
     "uptimeYear": "100.00%",
     "time": 660,
     "timeDay": 659,
-    "timeWeek": 660,
+    "timeWeek": 664,
     "timeMonth": 660,
     "timeYear": 660,
     "dailyMinutesDown": {}
@@ -162,7 +163,7 @@
     "uptimeYear": "100.00%",
     "time": 534,
     "timeDay": 541,
-    "timeWeek": 534,
+    "timeWeek": 537,
     "timeMonth": 534,
     "timeYear": 534,
     "dailyMinutesDown": {}
@@ -180,7 +181,7 @@
     "uptimeYear": "100.00%",
     "time": 532,
     "timeDay": 526,
-    "timeWeek": 532,
+    "timeWeek": 535,
     "timeMonth": 532,
     "timeYear": 532,
     "dailyMinutesDown": {}
@@ -198,7 +199,7 @@
     "uptimeYear": "100.00%",
     "time": 503,
     "timeDay": 503,
-    "timeWeek": 503,
+    "timeWeek": 499,
     "timeMonth": 503,
     "timeYear": 503,
     "dailyMinutesDown": {}
