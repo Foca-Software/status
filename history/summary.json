@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.49%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.11%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "97.48%",
     "uptimeYear": "99.49%",
     "time": 865,
     "timeDay": 770,
-    "timeWeek": 810,
+    "timeWeek": 826,
     "timeMonth": 893,
     "timeYear": 865,
     "dailyMinutesDown": {
@@ -157,18 +157,20 @@
     "url": "https://mercadopagocloud.focasoftware.com/mercadopago/message-alive",
     "icon": "https://favicons.githubusercontent.com/mercadopagocloud.focasoftware.com",
     "slug": "backend-mercado-pago-v2-foca",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 528,
-    "timeDay": 542,
-    "timeWeek": 504,
-    "timeMonth": 528,
-    "timeYear": 528,
-    "dailyMinutesDown": {}
+    "time": 527,
+    "timeDay": 521,
+    "timeWeek": 503,
+    "timeMonth": 527,
+    "timeYear": 527,
+    "dailyMinutesDown": {
+      "2023-01-04": 0
+    }
   },
   {
     "name": "Backend Puma Foca",
