@@ -145,19 +145,19 @@
     "url": "https://debocloud.focasoftware.com/web/login",
     "icon": "https://favicons.githubusercontent.com/debocloud.focasoftware.com",
     "slug": "debo-cloud-foca-software",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 694,
-    "timeWeek": 727,
-    "timeMonth": 679,
-    "timeYear": 679,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 789,
+    "timeDay": 1822,
+    "timeWeek": 1100,
+    "timeMonth": 789,
+    "timeYear": 789,
     "dailyMinutesDown": {
-      "2023-01-13": 0
+      "2023-01-13": 10
     }
   },
   {
