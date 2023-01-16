@@ -12,7 +12,7 @@
     "uptimeYear": "99.49%",
     "time": 865,
     "timeDay": 1015,
-    "timeWeek": 848,
+    "timeWeek": 855,
     "timeMonth": 858,
     "timeYear": 865,
     "dailyMinutesDown": {
@@ -145,18 +145,20 @@
     "url": "https://debocloud.focasoftware.com/web/login",
     "icon": "https://favicons.githubusercontent.com/debocloud.focasoftware.com",
     "slug": "debo-cloud-foca-software",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 775,
-    "timeDay": 672,
-    "timeWeek": 1073,
-    "timeMonth": 775,
-    "timeYear": 775,
-    "dailyMinutesDown": {}
+    "time": 842,
+    "timeDay": 1903,
+    "timeWeek": 1279,
+    "timeMonth": 849,
+    "timeYear": 842,
+    "dailyMinutesDown": {
+      "2023-01-16": 0
+    }
   },
   {
     "name": "Backend Mercado Pago v2 Foca",
@@ -172,7 +174,7 @@
     "time": 529,
     "timeDay": 502,
     "timeWeek": 521,
-    "timeMonth": 529,
+    "timeMonth": 530,
     "timeYear": 529,
     "dailyMinutesDown": {}
   },
@@ -190,7 +192,7 @@
     "time": 542,
     "timeDay": 531,
     "timeWeek": 582,
-    "timeMonth": 542,
+    "timeMonth": 543,
     "timeYear": 542,
     "dailyMinutesDown": {}
   },
@@ -208,7 +210,7 @@
     "time": 528,
     "timeDay": 526,
     "timeWeek": 533,
-    "timeMonth": 528,
+    "timeMonth": 527,
     "timeYear": 528,
     "dailyMinutesDown": {}
   }
