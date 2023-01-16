@@ -1,7 +1,7 @@
 url: https://debocloud.focasoftware.com/web/login
-status: up
-code: 200
-responseTime: 672
-lastUpdated: 2023-01-15T23:12:46.880Z
+status: down
+code: 500
+responseTime: 3133
+lastUpdated: 2023-01-16T19:12:08.700Z
 startTime: Fri Dec 16 2022 18:32:02 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
