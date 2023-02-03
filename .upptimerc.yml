@@ -9,8 +9,6 @@ sites:
     url: https://sac.focasoftware.com/sac/usuario/index.php
   - name: Backend Mercado Pago Foca
     url: http://mp.focasoftware.com/webservices/testFront
-  - name: Debo Cloud Foca Software
-    url: https://debocloud.focasoftware.com/web/login
   - name: Backend Mercado Pago v2 Foca
     url: https://mercadopagocloud.focasoftware.com/mercadopago/message-alive
   - name: Backend Puma Foca
@@ -27,7 +25,7 @@ status-website:
   cname: status.focasoftware.com
   #baseUrl: /status
   logoUrl: https://i.ibb.co/hMrxNzb/Logo-Foca-1.png
-  name: Foca Software 
+  name: Foca Software
   introTitle: "**Uptime** is service health dashboarde and endpoints monitor"
   introMessage: This is a status page that uses **real-time** data from Foca Software services
   navbar:
