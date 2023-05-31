@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.86%",
     "uptimeYear": "99.40%",
-    "time": 1005,
-    "timeDay": 22178,
-    "timeWeek": 3967,
-    "timeMonth": 2341,
+    "time": 1004,
+    "timeDay": 697,
+    "timeWeek": 3950,
+    "timeMonth": 2310,
     "timeYear": 1042,
     "dailyMinutesDown": {
       "2023-05-16": 76,
@@ -50,8 +50,7 @@
       "2022-07-22": 63,
       "2022-07-07": 114,
       "2022-07-03": 35,
-      "2022-06-27": 22,
-      "2022-05-31": 58
+      "2022-06-27": 22
     }
   },
   {
@@ -60,16 +59,16 @@
     "icon": "https://favicons.githubusercontent.com/sac.focasoftware.com",
     "slug": "sac",
     "status": "down",
-    "uptime": "82.51%",
+    "uptime": "82.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "91.50%",
+    "uptimeMonth": "90.86%",
     "uptimeYear": "76.97%",
     "time": 862,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 723,
-    "timeYear": 898,
+    "timeYear": 899,
     "dailyMinutesDown": {
       "2023-05-02": 1224,
       "2023-05-01": 1440,
@@ -170,8 +169,7 @@
       "2022-08-16": 42,
       "2022-07-22": 63,
       "2022-07-07": 113,
-      "2022-07-03": 34,
-      "2022-05-31": 57
+      "2022-07-03": 34
     }
   },
   {
@@ -186,10 +184,10 @@
     "uptimeMonth": "96.87%",
     "uptimeYear": "99.39%",
     "time": 3283,
-    "timeDay": 10735,
-    "timeWeek": 6495,
-    "timeMonth": 7884,
-    "timeYear": 3882,
+    "timeDay": 4236,
+    "timeWeek": 6961,
+    "timeMonth": 7804,
+    "timeYear": 3883,
     "dailyMinutesDown": {
       "2023-05-30": 157,
       "2023-05-29": 71,
@@ -245,8 +243,7 @@
       "2022-07-04": 50,
       "2022-06-23": 38,
       "2022-06-19": 67,
-      "2022-06-09": 15,
-      "2022-05-31": 27
+      "2022-06-09": 15
     }
   },
   {
@@ -260,11 +257,11 @@
     "uptimeWeek": "99.83%",
     "uptimeMonth": "95.80%",
     "uptimeYear": "99.19%",
-    "time": 651,
-    "timeDay": 575,
-    "timeWeek": 527,
-    "timeMonth": 762,
-    "timeYear": 651,
+    "time": 650,
+    "timeDay": 524,
+    "timeWeek": 525,
+    "timeMonth": 756,
+    "timeYear": 650,
     "dailyMinutesDown": {
       "2023-05-28": 18,
       "2023-05-15": 43,
@@ -287,11 +284,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "94.68%",
     "uptimeYear": "98.99%",
-    "time": 645,
-    "timeDay": 581,
-    "timeWeek": 534,
-    "timeMonth": 859,
-    "timeYear": 645,
+    "time": 644,
+    "timeDay": 497,
+    "timeWeek": 526,
+    "timeMonth": 851,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2023-05-15": 465,
       "2023-05-12": 535,
@@ -309,16 +306,16 @@
     "icon": "https://favicons.githubusercontent.com/centralinfo.focasoftware.com",
     "slug": "backend-central-info-foca",
     "status": "up",
-    "uptime": "96.05%",
+    "uptime": "96.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "78.87%",
-    "uptimeYear": "96.05%",
-    "time": 715,
-    "timeDay": 560,
-    "timeWeek": 558,
-    "timeMonth": 918,
-    "timeYear": 715,
+    "uptimeYear": "96.07%",
+    "time": 714,
+    "timeDay": 537,
+    "timeWeek": 555,
+    "timeMonth": 912,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2023-05-17": 1151,
       "2023-05-16": 942,
