@@ -79,16 +79,16 @@
     "url": "http://mp.focasoftware.com/webservices/testFront",
     "icon": "https://icons.duckduckgo.com/ip3/mp.focasoftware.com.ico",
     "slug": "backend-mercado-pago-foca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.56%",
-    "uptimeDay": "93.16%",
+    "uptimeDay": "93.25%",
     "uptimeWeek": "96.45%",
-    "uptimeMonth": "97.63%",
+    "uptimeMonth": "97.67%",
     "uptimeYear": "99.38%",
-    "time": 3878,
+    "time": 3884,
     "timeDay": 10421,
     "timeWeek": 5634,
-    "timeMonth": 5612,
+    "timeMonth": 5779,
     "timeYear": 4413,
     "dailyMinutesDown": {
       "2023-07-05": 63,
@@ -136,8 +136,7 @@
       "2023-01-24": 23,
       "2023-01-23": 66,
       "2022-12-28": 27,
-      "2022-12-12": 18,
-      "2022-11-30": 22
+      "2022-12-12": 18
     }
   },
   {
