@@ -60,19 +60,19 @@
     "url": "https://receptordebocloud.debo-cloud.com/api-recepcion/test",
     "icon": "https://icons.duckduckgo.com/ip3/receptordebocloud.debo-cloud.com.ico",
     "slug": "receptor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 626,
-    "timeDay": 465,
-    "timeWeek": 538,
-    "timeMonth": 630,
-    "timeYear": 626,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.32%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 624,
+    "timeDay": 496,
+    "timeWeek": 540,
+    "timeMonth": 627,
+    "timeYear": 624,
     "dailyMinutesDown": {
-      "2023-07-07": 0
+      "2023-07-07": 10
     }
   },
   {
