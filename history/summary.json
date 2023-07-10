@@ -80,17 +80,17 @@
     "slug": "backend-mercado-pago-foca",
     "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "96.21%",
-    "uptimeWeek": "95.46%",
-    "uptimeMonth": "97.83%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "95.81%",
+    "uptimeMonth": "97.85%",
     "uptimeYear": "99.35%",
     "time": 4012,
     "timeDay": 3045,
-    "timeWeek": 7377,
+    "timeWeek": 7711,
     "timeMonth": 5695,
     "timeYear": 4495,
     "dailyMinutesDown": {
-      "2023-07-10": 54,
+      "2023-07-10": 43,
       "2023-07-07": 101,
       "2023-07-06": 80,
       "2023-07-05": 89,
@@ -135,7 +135,8 @@
       "2023-02-06": 113,
       "2023-01-26": 57,
       "2023-01-25": 111,
-      "2023-01-24": 23
+      "2023-01-24": 23,
+      "2023-01-23": 18
     }
   },
   {
@@ -143,9 +144,9 @@
     "url": "https://mercadopagocloud.focasoftware.com/mercadopago/message-alive",
     "icon": "https://icons.duckduckgo.com/ip3/mercadopagocloud.focasoftware.com.ico",
     "slug": "backend-mercado-pago-v2-foca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
@@ -155,6 +156,7 @@
     "timeMonth": 918,
     "timeYear": 676,
     "dailyMinutesDown": {
+      "2023-07-10": 0,
       "2023-05-28": 18,
       "2023-05-15": 43,
       "2023-05-12": 535,
