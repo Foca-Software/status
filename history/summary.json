@@ -8,7 +8,7 @@
     "uptime": "95.03%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "15.17%",
+    "uptimeMonth": "15.12%",
     "uptimeYear": "92.34%",
     "time": 1045,
     "timeDay": 651,
@@ -16,7 +16,7 @@
     "timeMonth": 1175,
     "timeYear": 1110,
     "dailyMinutesDown": {
-      "2023-08-28": 475,
+      "2023-08-28": 497,
       "2023-08-27": 1440,
       "2023-08-26": 1440,
       "2023-08-25": 1440,
@@ -101,13 +101,13 @@
     "url": "http://mp.focasoftware.com/webservices/testFront",
     "icon": "https://icons.duckduckgo.com/ip3/mp.focasoftware.com.ico",
     "slug": "backend-mercado-pago-foca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.61%",
-    "uptimeDay": "93.40%",
-    "uptimeWeek": "95.54%",
-    "uptimeMonth": "95.28%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "95.75%",
+    "uptimeMonth": "95.29%",
     "uptimeYear": "99.39%",
-    "time": 4942,
+    "time": 4947,
     "timeDay": 9398,
     "timeWeek": 6884,
     "timeMonth": 6500,
@@ -150,8 +150,7 @@
       "2023-07-11": 25,
       "2023-07-10": 85,
       "2023-07-07": 101,
-      "2023-07-06": 80,
-      "2023-07-05": 26
+      "2023-07-06": 80
     }
   },
   {
