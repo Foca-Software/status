@@ -180,18 +180,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/receptordebocloud.debo-cloud.com.ico",
     "slug": "receptor",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
     "time": 606,
     "timeDay": 575,
     "timeWeek": 641,
     "timeMonth": 603,
     "timeYear": 606,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 16
     }
   },
   {
@@ -199,18 +199,19 @@
     "url": "http://mp.focasoftware.com/webservices/testFront",
     "icon": "https://icons.duckduckgo.com/ip3/mp.focasoftware.com.ico",
     "slug": "backend-mercado-pago-foca",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.42%",
-    "time": 5165,
+    "time": 5171,
     "timeDay": 133,
     "timeWeek": 272,
     "timeMonth": 2964,
     "timeYear": 5592,
     "dailyMinutesDown": {
+      "2024-01-03": 0,
       "2023-12-05": 20,
       "2023-11-28": 22,
       "2023-11-10": 18,
@@ -253,7 +254,7 @@
       "2023-07-31": 70,
       "2023-07-28": 102,
       "2023-07-27": 87,
-      "2023-07-26": 113
+      "2023-07-26": 86
     }
   },
   {
