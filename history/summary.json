@@ -8,12 +8,12 @@
     "uptime": "86.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.50%",
+    "uptimeMonth": "99.54%",
     "uptimeYear": "69.90%",
-    "time": 1937,
-    "timeDay": 619,
-    "timeWeek": 1146,
-    "timeMonth": 1128,
+    "time": 1936,
+    "timeDay": 817,
+    "timeWeek": 1135,
+    "timeMonth": 1139,
     "timeYear": 2076,
     "dailyMinutesDown": {
       "2024-04-23": 143,
@@ -215,11 +215,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.42%",
-    "time": 590,
-    "timeDay": 382,
-    "timeWeek": 510,
-    "timeMonth": 545,
-    "timeYear": 590,
+    "time": 591,
+    "timeDay": 823,
+    "timeWeek": 548,
+    "timeMonth": 553,
+    "timeYear": 591,
     "dailyMinutesDown": {
       "2024-04-16": 230,
       "2024-01-05": 812,
@@ -234,17 +234,16 @@
     "slug": "backend-mercado-pago-foca",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.43%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.88%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.41%",
-    "time": 5030,
-    "timeDay": 6506,
-    "timeWeek": 3130,
-    "timeMonth": 5561,
+    "time": 5029,
+    "timeDay": 5516,
+    "timeWeek": 3129,
+    "timeMonth": 4521,
     "timeYear": 5221,
     "dailyMinutesDown": {
-      "2024-05-03": 8,
       "2024-04-25": 15,
       "2024-04-03": 28,
       "2024-03-20": 163,
@@ -292,7 +291,7 @@
       "2023-08-07": 138,
       "2023-08-04": 92,
       "2023-08-03": 83,
-      "2023-08-02": 58
+      "2023-08-02": 96
     }
   },
   {
@@ -307,10 +306,10 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.58%",
     "time": 798,
-    "timeDay": 477,
-    "timeWeek": 561,
+    "timeDay": 688,
+    "timeWeek": 578,
     "timeMonth": 821,
-    "timeYear": 853,
+    "timeYear": 845,
     "dailyMinutesDown": {
       "2024-04-16": 230,
       "2024-03-28": 19,
@@ -323,8 +322,7 @@
       "2023-05-15": 43,
       "2023-05-12": 535,
       "2023-05-09": 761,
-      "2023-05-08": 354,
-      "2023-05-05": 129
+      "2023-05-08": 354
     }
   },
   {
@@ -338,10 +336,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.51%",
-    "time": 712,
-    "timeDay": 411,
-    "timeWeek": 503,
-    "timeMonth": 871,
+    "time": 713,
+    "timeDay": 637,
+    "timeWeek": 513,
+    "timeMonth": 873,
     "timeYear": 756,
     "dailyMinutesDown": {
       "2024-04-16": 229,
@@ -349,8 +347,7 @@
       "2023-05-12": 535,
       "2023-05-11": 41,
       "2023-05-09": 761,
-      "2023-05-08": 354,
-      "2023-05-05": 177
+      "2023-05-08": 354
     }
   },
   {
@@ -365,9 +362,9 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "98.19%",
     "time": 729,
-    "timeDay": 424,
-    "timeWeek": 481,
-    "timeMonth": 761,
+    "timeDay": 558,
+    "timeWeek": 477,
+    "timeMonth": 760,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2024-04-16": 229,
@@ -381,8 +378,7 @@
       "2023-05-11": 50,
       "2023-05-10": 1106,
       "2023-05-09": 1376,
-      "2023-05-08": 353,
-      "2023-05-05": 257
+      "2023-05-08": 353
     }
   }
 ]
