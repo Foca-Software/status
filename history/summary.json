@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/sacautogestion.focasoftware.com.ico",
     "slug": "autogestion-clientes",
     "status": "up",
-    "uptime": "86.72%",
+    "uptime": "86.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "69.90%",
-    "time": 1961,
-    "timeDay": 909,
-    "timeWeek": 3284,
-    "timeMonth": 1618,
-    "timeYear": 2114,
+    "time": 1960,
+    "timeDay": 1142,
+    "timeWeek": 3343,
+    "timeMonth": 1630,
+    "timeYear": 2093,
     "dailyMinutesDown": {
       "2024-05-06": 17,
       "2024-04-23": 143,
@@ -215,9 +215,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.43%",
     "time": 591,
-    "timeDay": 771,
-    "timeWeek": 623,
-    "timeMonth": 567,
+    "timeDay": 550,
+    "timeWeek": 647,
+    "timeMonth": 561,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2024-04-16": 230,
@@ -233,17 +233,16 @@
     "slug": "backend-mercado-pago-foca",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "99.02%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.41%",
     "time": 4943,
-    "timeDay": 179,
-    "timeWeek": 2616,
-    "timeMonth": 4039,
-    "timeYear": 5056,
+    "timeDay": 223,
+    "timeWeek": 1643,
+    "timeMonth": 4045,
+    "timeYear": 5057,
     "dailyMinutesDown": {
-      "2024-05-09": 14,
       "2024-04-25": 15,
       "2024-04-03": 28,
       "2024-03-20": 163,
@@ -291,7 +290,7 @@
       "2023-08-07": 138,
       "2023-08-04": 92,
       "2023-08-03": 83,
-      "2023-08-02": 58
+      "2023-08-02": 96
     }
   },
   {
@@ -304,11 +303,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.80%",
+    "uptimeYear": "99.82%",
     "time": 795,
-    "timeDay": 631,
-    "timeWeek": 523,
-    "timeMonth": 659,
+    "timeDay": 680,
+    "timeWeek": 552,
+    "timeMonth": 666,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2024-04-16": 230,
@@ -333,17 +332,16 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "99.74%",
+    "uptimeYear": "99.76%",
     "time": 713,
-    "timeDay": 528,
-    "timeWeek": 504,
-    "timeMonth": 616,
+    "timeDay": 531,
+    "timeWeek": 521,
+    "timeMonth": 620,
     "timeYear": 747,
     "dailyMinutesDown": {
       "2024-04-16": 229,
       "2023-05-15": 465,
-      "2023-05-12": 535,
-      "2023-05-11": 41
+      "2023-05-12": 535
     }
   },
   {
@@ -356,12 +354,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "98.44%",
-    "time": 740,
-    "timeDay": 557,
-    "timeWeek": 476,
-    "timeMonth": 615,
-    "timeYear": 772,
+    "uptimeYear": "98.58%",
+    "time": 741,
+    "timeDay": 669,
+    "timeWeek": 511,
+    "timeMonth": 621,
+    "timeYear": 774,
     "dailyMinutesDown": {
       "2024-04-16": 229,
       "2023-12-10": 17,
@@ -370,8 +368,7 @@
       "2023-05-15": 858,
       "2023-05-14": 1440,
       "2023-05-13": 1185,
-      "2023-05-12": 535,
-      "2023-05-11": 50
+      "2023-05-12": 535
     }
   }
 ]
