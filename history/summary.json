@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/sacautogestion.focasoftware.com.ico",
     "slug": "autogestion-clientes",
     "status": "up",
-    "uptime": "86.78%",
+    "uptime": "86.79%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.83%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.63%",
     "uptimeYear": "69.98%",
-    "time": 1961,
-    "timeDay": 913,
-    "timeWeek": 2826,
-    "timeMonth": 1635,
+    "time": 1960,
+    "timeDay": 618,
+    "timeWeek": 816,
+    "timeMonth": 1628,
     "timeYear": 2106,
     "dailyMinutesDown": {
       "2024-05-06": 17,
@@ -214,9 +214,9 @@
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.44%",
     "time": 591,
-    "timeDay": 708,
-    "timeWeek": 575,
-    "timeMonth": 557,
+    "timeDay": 622,
+    "timeWeek": 570,
+    "timeMonth": 554,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2024-04-16": 230,
@@ -236,11 +236,11 @@
     "uptimeWeek": "99.32%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.40%",
-    "time": 4949,
-    "timeDay": 160,
-    "timeWeek": 186,
+    "time": 4943,
+    "timeDay": 76,
+    "timeWeek": 165,
     "timeMonth": 3951,
-    "timeYear": 4928,
+    "timeYear": 4919,
     "dailyMinutesDown": {
       "2024-05-12": 66,
       "2024-05-11": 3,
@@ -305,10 +305,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.92%",
-    "time": 793,
-    "timeDay": 454,
-    "timeWeek": 507,
-    "timeMonth": 661,
+    "time": 792,
+    "timeDay": 465,
+    "timeWeek": 509,
+    "timeMonth": 656,
     "timeYear": 844,
     "dailyMinutesDown": {
       "2024-04-16": 230,
@@ -318,8 +318,7 @@
       "2023-08-10": 16,
       "2023-07-31": 21,
       "2023-07-10": 28,
-      "2023-05-28": 18,
-      "2023-05-15": 43
+      "2023-05-28": 18
     }
   },
   {
@@ -334,13 +333,12 @@
     "uptimeMonth": "99.48%",
     "uptimeYear": "99.87%",
     "time": 712,
-    "timeDay": 450,
-    "timeWeek": 477,
-    "timeMonth": 610,
+    "timeDay": 393,
+    "timeWeek": 468,
+    "timeMonth": 607,
     "timeYear": 744,
     "dailyMinutesDown": {
-      "2024-04-16": 229,
-      "2023-05-15": 465
+      "2024-04-16": 229
     }
   },
   {
@@ -353,18 +351,17 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.48%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "99.13%",
     "time": 740,
-    "timeDay": 487,
-    "timeWeek": 504,
-    "timeMonth": 613,
+    "timeDay": 463,
+    "timeWeek": 500,
+    "timeMonth": 614,
     "timeYear": 761,
     "dailyMinutesDown": {
       "2024-04-16": 229,
       "2023-12-10": 17,
       "2023-05-17": 1151,
-      "2023-05-16": 942,
-      "2023-05-15": 858
+      "2023-05-16": 942
     }
   }
 ]
