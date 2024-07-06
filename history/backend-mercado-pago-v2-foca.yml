@@ -1,7 +1,7 @@
 url: https://mercadopagocloud.focasoftware.com/mercadopago/message-alive
-status: down
-code: 503
-responseTime: 689
-lastUpdated: 2024-07-06T21:55:41.112Z
+status: up
+code: 200
+responseTime: 491
+lastUpdated: 2024-07-06T22:13:27.925Z
 startTime: 2022-12-16T18:32:03.000Z
 generator: Upptime <https://github.com/upptime/upptime>
