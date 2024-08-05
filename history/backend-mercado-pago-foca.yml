@@ -1,7 +1,7 @@
 url: http://mp.focasoftware.com/webservices/testFront
-status: down
-code: 502
-responseTime: 124
-lastUpdated: 2024-08-05T15:22:21.494Z
+status: up
+code: 200
+responseTime: 280
+lastUpdated: 2024-08-05T15:32:42.537Z
 startTime: 2022-02-02T04:48:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
