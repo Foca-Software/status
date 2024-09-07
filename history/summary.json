@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "79.66%",
+    "uptimeYear": "79.68%",
     "time": 1964,
     "timeDay": 670,
     "timeWeek": 1004,
@@ -160,8 +160,7 @@
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
-      "2023-09-09": 1440,
-      "2023-09-08": 1440
+      "2023-09-09": 1440
     }
   },
   {
@@ -195,9 +194,9 @@
     "slug": "backend-mercado-pago-foca",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "97.59%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "99.10%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "99.12%",
     "uptimeYear": "99.54%",
     "time": 3324,
     "timeDay": 12661,
@@ -205,7 +204,7 @@
     "timeMonth": 2745,
     "timeYear": 2849,
     "dailyMinutesDown": {
-      "2024-09-06": 35,
+      "2024-09-06": 25,
       "2024-09-05": 63,
       "2024-09-04": 17,
       "2024-09-01": 18,
