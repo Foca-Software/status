@@ -4,18 +4,19 @@
     "url": "https://sacautogestion.focasoftware.com/index",
     "icon": "https://icons.duckduckgo.com/ip3/sacautogestion.focasoftware.com.ico",
     "slug": "autogestion-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "94.35%",
     "uptimeMonth": "98.64%",
-    "uptimeYear": "98.88%",
-    "time": 1875,
+    "uptimeYear": "98.89%",
+    "time": 1876,
     "timeDay": 679,
     "timeWeek": 835,
     "timeMonth": 847,
     "timeYear": 1967,
     "dailyMinutesDown": {
+      "2024-11-12": 0,
       "2024-11-08": 551,
       "2024-11-06": 18,
       "2024-10-28": 27,
@@ -96,8 +97,7 @@
       "2023-11-23": 18,
       "2023-11-22": 35,
       "2023-11-21": 37,
-      "2023-11-20": 18,
-      "2023-11-18": 24
+      "2023-11-20": 18
     }
   },
   {
