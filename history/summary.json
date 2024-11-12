@@ -4,13 +4,13 @@
     "url": "https://sacautogestion.focasoftware.com/index",
     "icon": "https://icons.duckduckgo.com/ip3/sacautogestion.focasoftware.com.ico",
     "slug": "autogestion-clientes",
-    "status": "up",
+    "status": "down",
     "uptime": "99.60%",
-    "uptimeDay": "98.26%",
+    "uptimeDay": "98.25%",
     "uptimeWeek": "94.10%",
     "uptimeMonth": "98.58%",
-    "uptimeYear": "98.88%",
-    "time": 1876,
+    "uptimeYear": "98.89%",
+    "time": 1877,
     "timeDay": 722,
     "timeWeek": 828,
     "timeMonth": 845,
@@ -96,8 +96,7 @@
       "2023-11-24": 23,
       "2023-11-23": 18,
       "2023-11-22": 35,
-      "2023-11-21": 37,
-      "2023-11-20": 18
+      "2023-11-21": 37
     }
   },
   {
@@ -221,7 +220,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pumacloud.focasoftware.com.ico",
     "slug": "backend-puma-foca",
     "status": "up",
-    "uptime": "96.48%",
+    "uptime": "96.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "56.67%",
