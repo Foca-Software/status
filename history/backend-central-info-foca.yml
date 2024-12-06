@@ -1,7 +1,7 @@
 url: https://centralinfo.focasoftware.com/message-alive
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-12-06T23:14:57.608Z
+status: up
+code: 200
+responseTime: 454
+lastUpdated: 2024-12-06T23:29:35.569Z
 startTime: 2022-12-16T18:32:05.000Z
 generator: Upptime <https://github.com/upptime/upptime>
