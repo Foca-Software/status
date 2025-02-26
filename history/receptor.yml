@@ -1,7 +1,7 @@
 url: https://receptordebocloud.debo-cloud.com/api-recepcion/test
-status: down
-code: 503
-responseTime: 494
-lastUpdated: 2025-02-26T15:14:02.618Z
+status: up
+code: 200
+responseTime: 490
+lastUpdated: 2025-02-26T18:32:47.005Z
 startTime: 2023-06-05T17:02:18.000Z
 generator: Upptime <https://github.com/upptime/upptime>
