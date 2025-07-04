@@ -1,7 +1,7 @@
 url: https://pumacloud.focasoftware.com/puma/message-alive
-status: down
-code: 503
-responseTime: 772
-lastUpdated: 2025-07-04T16:39:03.160Z
+status: up
+code: 200
+responseTime: 2276
+lastUpdated: 2025-07-04T16:54:50.719Z
 startTime: 2022-12-16T18:32:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
